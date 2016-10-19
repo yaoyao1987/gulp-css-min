@@ -1,6 +1,7 @@
 # vue-css-min
 
-	最近朋友问了一个问题，在不用less、sass的情况下，怎么对HTML文件中的css进行合并，并且替换html中的css的链接。在segmentfault上找了下，感谢hjzheng童鞋，给出了解决方案，即gulp-useref。
+	最近朋友问了一个问题，在不用less、sass的情况下，怎么对HTML文件中的css进行合并，并且替换html中的css的链接。
+	在segmentfault上找了下，感谢hjzheng童鞋，给出了解决方案，即gulp-useref。
 
 ## Build Setup
 
