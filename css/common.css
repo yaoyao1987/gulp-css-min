@@ -1,0 +1,150 @@
+/* ---------------------single CSS----------------------- */
+.dh {
+  display: none;
+}
+.di {
+  display: inline;
+}
+.db {
+  display: block;
+}
+.dib {
+  display: inline-block;
+
+  *display: inline;
+  /* IE7 inline-block hack */
+  *zoom: 1;
+}
+.w20 {
+  width: 20px;
+}
+.pct100 {
+  width: 100%;
+}
+.m0 {
+  margin: 0;
+}
+.mr3 {
+  margin-right: 3px;
+}
+.mr5 {
+  margin-right: 5px;
+}
+.ml15 {
+  margin-left: 15px;
+}
+.mtb10 {
+  margin: 10px 0;
+}
+.p0 {
+  padding: 0;
+}
+.bdc {
+  border: 1px solid #ccc;
+}
+.bgf {
+  background-color: #fff;
+}
+.g0 {
+  color: #000;
+}
+.g3 {
+  color: #333;
+}
+.g6 {
+  color: #666;
+}
+.g9 {
+  color: #999;
+}
+.gd32 {
+  color: #d3231d;
+}
+.gf30 {
+  color: #f30;
+}
+.gdb1 {
+  color: #db10a9;
+}
+.g1f7 {
+  color: #1f73c5;
+}
+.f0 {
+  font-size: 0;
+}
+.f12 {
+  font-size: 12px;
+}
+.f14 {
+  font-size: 14px;
+}
+.f16 {
+  font-size: 16px;
+}
+.n {
+  font-style: normal;
+  font-weight: normal;
+}
+.b {
+  font-weight: 700;
+}
+.i {
+  font-style: italic;
+}
+.tc {
+  text-align: center;
+}
+.tr {
+  text-align: right;
+}
+.tl {
+  text-align: left;
+}
+.tj {
+  text-align: justify;
+}
+.tdl {
+  text-decoration: underline;
+}
+.tdn {
+  text-decoration: none;
+}
+.nowrap {
+  white-space: nowrap;
+}
+.bk {
+  word-wrap: break-word;
+}
+.vm {
+  vertical-align: middle;
+}
+.vtb {
+  vertical-align: text-bottom;
+}
+.l {
+  float: left;
+}
+.r {
+  float: right;
+}
+.cl {
+  clear: both;
+}
+.rel {
+  position: relative;
+}
+.abs {
+  position: absolute;
+}
+.poi {
+  cursor: pointer;
+}
+.def {
+  cursor: default;
+}
+.ovh {
+  overflow: hidden;
+}
+.ova {
+  overflow: auto;
+}
